@@ -14,6 +14,4 @@ Soy estudiante de Ingeniería de Sistemas de Bogotá, Colombia 🇨🇴
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isa21087)](https://git.io/streak-stats)
 
----
 
-![Logo](https://oaidalleapiprodscus.blob.core.windows.net/private/org-x7yc48s3n1I6ZwFfAoLkSOPX/user-fv6x22yPv9AwkRnGQ0ko6XPu/img-4054855b-ee66-462e-aa09-c1064f4ddadf.png?st=2025-07-30T20%3A59%3A00Z&se=2025-07-31T20%3A59%3A00Z&sp=r&sv=2021-08-06&sr=b&sig=%2FL%2B4Qr1lSbe2bLCSwpxa2ZCBM4PO6%2F1tSgBSZ6t52Ro%3D)
