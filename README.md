@@ -1,5 +1,5 @@
 # 👩‍💻 Soy Isa  
-Soy estudiante de Ingeniería de Sistemas de Bogotá, Colombia 🇨🇴
+Soy estudiante de Ingeniería de Sistemas de Bogotá, Colombia
 
 ---
 
